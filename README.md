@@ -59,7 +59,7 @@ Cross connection:
 CIRCUIT DIAGRAM:
 <img width="791" height="389" alt="image" src="https://github.com/user-attachments/assets/6123f567-8720-4cda-a1bd-662627710bf3" />
 
-<img width="1280" height="777" alt="image" src="https://github.com/user-attachments/assets/a2e6894b-e91d-4889-8d84-a3db8cd4d4cf" />
+<img width="1280" height="684" alt="image" src="https://github.com/user-attachments/assets/fa32e95c-72fd-4cef-ab36-64baf81c0b97" />
 
 Tabulation 2:
 <img width="1280" height="805" alt="image" src="https://github.com/user-attachments/assets/648384ef-dd26-442d-ad88-ef12a46bfc31" />
